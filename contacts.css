@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+*{
+	font-family: arial, helvetica, sans-serif; color: #333;
+}
+body{
+	background-color: #ccc; margin:0;
+}
+
+#container{
+	width: 1200px; margin: 0 auto; background-color: #fff;
+}
+
+#header{
+	width:100%; height: 60px; border-bottom: 1px solid #c7c7c7; background-color: #333;
+}
+
+#logo{
+	float: left; 
+	width: 100px; 
+	height: 100px; 
+	margin: 5px; 
+	background-image: url("profile/index.png");
+	background-size: 100%;
+}
+#top_info{
+	float: right; width:100px; height: 40px; background: #666;
+}
+#navbar{
+	height: 20px;clear: both;
+}
+#navbar ul{
+	padding: 0; margin: 0; list-style: none;
+}
+
+#navbar ul li{
+	padding: 10px; float: left;
+}
+
+#navbar ul li a{
+
+	font-size: 12px; float: left; float: left; padding: 0 0 0 20px; display: block;
+}
+
+#banner{
+	height: 600px; 
+	padding: 20px; 
+	clear: both;
+	background-image:url(profile/NdifrekeAnwanakak.png); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 40px;
+	font-family: Pacifico, serif;
+}
+
+#left_column{
+
+	float: left; width: auto; height: auto; border:0px solid #333; color: #fff; background-color:; padding: 20px;
+	 background-size: 100%;
+}
+
+
+#footer{
+	padding: 20px; clear:both;
+}
+#content_area{
+	font-family: Tahoma;
+	font-style: italic;
+}
+p
