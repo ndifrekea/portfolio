@@ -22,7 +22,7 @@ Access my [portfolio](https://github.com/ndifrekea/portfolio).
 | contact.html            | Conatct me page for all my contact info |
 | style.css               | my css file for all my styling          |
 
-![alt text](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAkQAAAAJDBkMzllMGM5LWMwN2ItNDliYy04ODg5LTQzMDhmMGYyMzg1Zg.jpg 'Digital marketing')
+![alt text](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAdsAAAAJDIxMGQzNmQwLWM1MTgtNDQyMy1iM2ZlLThiYzZkMjljNjk0ZQ.jpg 'My picture')
 
 
 
