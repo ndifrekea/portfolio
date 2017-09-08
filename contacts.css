@@ -23,9 +23,7 @@ body{
 	background-image: url("profile/index.png");
 	background-size: 100%;
 }
-#top_info{
-	float: right; width:100px; height: 40px; background: #666;
-}
+
 #navbar{
 	height: 20px;clear: both;
 }
