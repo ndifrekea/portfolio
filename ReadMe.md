@@ -16,7 +16,7 @@ Access my [portfolio](https://github.com/ndifrekea/portfolio).
 ## Here are the descriptions for my page :smiley:
 
 | Pages                   | Description                             |
-|--------------------------------------------------------------------
+|-------------------------|-----------------------------------------|
 | index.html              | My home page, with my announcement on it|
 | Aboutme.html            | About me page describing my self        |
 | contact.html            | Conatct me page for all my contact info |
